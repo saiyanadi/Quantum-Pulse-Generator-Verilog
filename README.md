@@ -1,1 +1,2 @@
 # Quantum-Pulse-Generator-Verilog
+This repository contains a synthesizable Verilog implementation of a programmable digital pulse generator. Precise timing, pulse shaping, and low-latency feedback execution are fundamental operational constraints in FPGA-based control systems for superconducting quantum processors. This module uses a synchronized Finite State Machine (FSM) to reliably delay and generate pulses based on dynamic cycle parameters.
